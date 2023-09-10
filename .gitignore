@@ -136,3 +136,6 @@ ui-tests/playwright-report
 ui-tests/.yarn/*
 ui-tests/.pnp.*
 .virtual_documents/*
+
+chromedriver
+img/
